@@ -1,6 +1,9 @@
 # An Analysis of Kickstarter Campaigns
-Based on over 4,000 kickstarter campaigns created over 20 countries...
 
-While its popularity can be seen worldwide, Kickstarter was especially popular in the US, garnering over 3,000 campaigns and helping to raised over $36 million USD since its inception in 2009. 
+## Overview of Project
 
+	The Kickstarter analysis is performed via request from Louise, a young entrepreneur who launched a Kickstarter for a workshop production of ‘Fever’ back in June 2016. Although the campaign initially garnered a welcoming support from her close family and friends, it came just short of the initial campaign goal of $2,885 due to lack of public backing.
 
+### Purpose
+
+	The purpose of this analysis is to help provide appropriate comparison that Louise can compared her campaign, the production of ‘Fever’. Through this analysis, Louise would gain greater understanding about whether her decision to launch the Kickstarter in June played a favorable/unfavorable role in her campaign outcome. Additionally, she would be able to understand whether her campaign goal is a realistic chance of potentially reaching its 
